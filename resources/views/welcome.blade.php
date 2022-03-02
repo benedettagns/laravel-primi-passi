@@ -9,6 +9,8 @@
 <body>
     
   <h1>Benvenuti in Laravel</h1>
-
+  <ul>
+    <li><a href="{{ url('home') }}">Home</a></li>
+  </ul>
 </body>
 </html>

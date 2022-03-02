@@ -9,8 +9,8 @@
 <body>
     <h1>Hello World</h1>
 
-    @for ($i = 0; $i < 10; $ii)
-        return 'hello world';
+    @for ($i = 0; $i < 10; $i++)
+        ciao
     @endfor
     
 
